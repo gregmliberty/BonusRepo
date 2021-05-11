@@ -31,6 +31,7 @@
         <type>Region</type>
     </flexiPageRegions>
     <flexiPageRegions>
+
         <itemInstances>
             <componentInstance>
                 <componentName>cooper:companyInsightTeaserCard</componentName>
@@ -138,6 +139,7 @@
         <itemInstances>
             <componentInstance>
                 <componentInstanceProperties>
+
                     <name>tabs</name>
                     <value>maintabs</value>
                 </componentInstanceProperties>
@@ -151,6 +153,7 @@
     <flexiPageRegions>
         <itemInstances>
             <componentInstance>
+
                 <componentName>forceChatter:recordFeedContainer</componentName>
             </componentInstance>
         </itemInstances>
@@ -167,6 +170,7 @@
                 </componentInstanceProperties>
                 <componentInstanceProperties>
                     <name>body</name>
+
                     <value>feedTabContent</value>
                 </componentInstanceProperties>
                 <componentInstanceProperties>
@@ -184,35 +188,13 @@
         <itemInstances>
             <componentInstance>
                 <componentInstanceProperties>
-                    <name>collapsed</name>
-                    <value>false</value>
-                </componentInstanceProperties>
-                <componentInstanceProperties>
-                    <name>enableActionsConfiguration</name>
-                    <value>false</value>
-                </componentInstanceProperties>
-                <componentInstanceProperties>
-                    <name>enableActionsInNative</name>
-                    <value>false</value>
-                </componentInstanceProperties>
-                <componentInstanceProperties>
-                    <name>hideChatterActions</name>
-                    <value>false</value>
-                </componentInstanceProperties>
-                <componentInstanceProperties>
-                    <name>numVisibleActions</name>
-                    <value>3</value>
-                </componentInstanceProperties>
-                <componentName>force:highlightsPanel</componentName>
+
             </componentInstance>
         </itemInstances>
         <itemInstances>
             <componentInstance>
                 <componentInstanceProperties>
-                    <name>tabs</name>
-                    <value>sidebartabs</value>
-                </componentInstanceProperties>
-                <componentName>flexipage:tabset</componentName>
+
             </componentInstance>
         </itemInstances>
         <mode>Replace</mode>
